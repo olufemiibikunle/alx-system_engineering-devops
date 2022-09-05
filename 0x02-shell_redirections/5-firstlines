@@ -1,0 +1,2 @@
+#!/bib/bash
+head /etc/passwd
